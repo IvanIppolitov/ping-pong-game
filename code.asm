@@ -225,6 +225,7 @@ main:
     call displayScore
 
     draw:
+        ;Latency depending on processor speed
         delay 20
 
         mov ax, SY
