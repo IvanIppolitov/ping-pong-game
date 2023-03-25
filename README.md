@@ -1,4 +1,4 @@
 # ping-pong-game
 Ping pong game
 
-MS-DOS, 80486
+320x200, MS-DOS, 80486
